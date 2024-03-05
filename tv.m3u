@@ -1,1 +1,1520 @@
-
+#EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="IPTV" tvg-chno="104", CSI: Miami
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="IPTV" tvg-chno="108", NCIS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" tvg-name="Los Tres Chiflados" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="IPTV" tvg-chno="259", Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/PMmJkPz/Larosa.png" group-title="IPTV",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/QpTwWPw/Como.png" group-title="IPTV",Como Dice el Dicho
+https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/cCHC47y/ANHQV.png" group-title="IPTV",Aquí No Hay Quien Viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/MGSZ30V/COMEDIA.png" group-title="IPTV",Comedia Atresmedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/tMDXhJS/mr-bean.png" group-title="IPTV",Mr. Bean Cartoon
+http://51.159.104.29:8080/mrbean/index.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/BVhnN1Z/Pocoyo.png" group-title="IPTV",Pocoyó y sus Amigos
+https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/7jTVhH8/Angry-Birds.png" group-title="IPTV",Angry Birds
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=823|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/BBZWZLJ/Super-Toons-TV.png" group-title="IPTV",Super Toons TV
+https://83bff381bbfb42e6b3f6c02b68e1170f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SuperToonsTV/playlist.m3u8?ads.wurl_channel=639&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/5WsQxb7/toongoggles.png" group-title="IPTV",Toon Goggles TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=771|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/V3MNNfg/Baby-Shark-TV.png" group-title="IPTV",Baby Shark TV
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/1200.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo-small="https://i.ibb.co/Dk39SVG/MovieFE.png" tvg-logo="https://i.ibb.co/jrcPkVh/MovieFE.png" group-title="IPTV",Movie Fe
+e|User-agent=MXPlayer/1.48.2 (Linux; Android 6.0.1; es-ES; Dolamee_D5 Build/Dolamee_D5-userdebug 6.0.1 MXC89L user.xfwu.20170410.192530 test-keys)|Referer=https://vcp.myplaytv.com:2000/
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/KFFcCZ4/Peliculas-Cristianas.png" group-title="IPTV",Películas Cristianas
+https://ythls.armelin.one/channel/UCgKLdN2L0VEusCGene_HWag.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/fCFCZ92/Tves.png" tvg-logo="https://i.ibb.co/CWcQg99/tves.png" group-title="IPTV",TVES
+https://ls.tves.gob.ve/hls/tves.m3u8?referrer=https://ls.tves.gob.ve/live/stream2.html|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/FJWhcnC/Venevision.png" tvg-logo="https://i.ibb.co/CKHTRD1/Venevision.png" group-title="IPTV",Venevisión
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/0/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/wypN7mN/Valetv.png" tvg-logo="https://i.ibb.co/kx3Xvbv/valetv.png" group-title="IPTV",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/fdLQKXW/Televen.png" tvg-logo="https://i.ibb.co/L5xbZxt/Televen.png" group-title="IPTV",Televen
+https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/qF00J2W/AF1-Qip-N1-Wo3tbq-Shh-TP-QFin7ya4jr5-O.png" tvg-logo="https://i.ibb.co/kSzYN3N/mdatv.png" group-title="IPTV",MDATV
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="no_epg" tvg-logo-small="" tvg-logo="https://i.ibb.co/9qjs4pK/zaztv.png" group-title="IPTV",ZAZ TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120|User-agent=Mozilla/5/Lavf/57.71.100
+#EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/CBVzMs1/TLT.png" tvg-logo="https://i.ibb.co/cY70mhm/TLT.png" group-title="IPTV",TLT
+https://m3ukodi.com/iptv/dplay.php?https://www.dailymotion.com/embed/video/x8my9op?autoplay=1&amp;f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NghGw4P/ivc.png" group-title="IPTV",IVC Networks
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/MnsZ1bX/Canali.png" tvg-logo="https://i.ibb.co/hXgxxhT/Canal-i.png" group-title="IPTV",Canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="VePlusTV.es" tvg-logo-small="https://i.ibb.co/PhzwF0W/Ve-Plus.png" tvg-logo="https://i.ibb.co/cN7h5Z0/Ve-Plus.png" group-title="IPTV",VE PLUS TV
+https://veplus.akamaized.net/hls/live/2101013/VEPLUS/0/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/FJWhcnC/Venevision.png" tvg-logo="https://i.ibb.co/CKHTRD1/Venevision.png" group-title="IPTV",Venevisión Int
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo-small="https://i.ibb.co/N7h04Hx/Plex.png" tvg-logo="https://i.ibb.co/6JqCDPH/Cine-en-espanol.png" group-title="IPTV",Cine en Español
+https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c42d2-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Session-Identifier=cz64wjrac3lowd68r28waphs&X-Plex-Product=Plex%20Web&X-Plex-Version=4.120.1&X-Plex-Client-Identifier=5tb067xbv92gnl3zge3zrpc6&X-Plex-Platform=Chrome&X-Plex-Platform-Version=120.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=869x739%2C1600x900&X-Plex-Token=PW7MsnRPRVk1f4zsRUtu&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=db0ea06e-ece9-41ab-8483-3225cddbd0fc|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo-small="https://i.ibb.co/N7h04Hx/Plex.png" tvg-logo="https://i.ibb.co/Zgcz55J/Cine-de-horror.png" group-title="IPTV",Cine de Horror
+https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c42d2-64e6e2f04a5e9b4cedc6d52b.m3u8?X-Plex-Session-Identifier=cz64wjrac3lowd68r28waphs&X-Plex-Product=Plex%20Web&X-Plex-Version=4.120.1&X-Plex-Client-Identifier=5tb067xbv92gnl3zge3zrpc6&X-Plex-Platform=Chrome&X-Plex-Platform-Version=120.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=869x739%2C1600x900&X-Plex-Token=PW7MsnRPRVk1f4zsRUtu&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=db0ea06e-ece9-41ab-8483-3225cddbd0fc|User-agent=Safari/537.36
+#EXTINF:-1 group-title="IPTV", A&E
+https://3.ultimate2019.com/stream/hls/1|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", A+
+https://3.ultimate2019.com/stream/hls/406|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", A3Series
+https://3.ultimate2019.com/stream/hls/444|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ADN 40
+https://3.ultimate2019.com/stream/hls/447|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Afizzionados
+https://3.ultimate2019.com/stream/hls/878|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Alf 24/7
+https://3.ultimate2019.com/stream/hls/426|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AMC
+https://3.ultimate2019.com/stream/hls/183|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", America
+https://3.ultimate2019.com/stream/hls/780|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Animal Planet
+https://3.ultimate2019.com/stream/hls/3|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Animaniacs 24/7
+https://3.ultimate2019.com/stream/hls/677|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Antena 3
+https://3.ultimate2019.com/stream/hls/298|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AXN
+https://3.ultimate2019.com/stream/hls/146|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AXN (ES)
+https://3.ultimate2019.com/stream/hls/713|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AXN WHITE (ES)
+https://3.ultimate2019.com/stream/hls/714|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AyM Sports
+https://3.ultimate2019.com/stream/hls/148|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Az Cinema
+https://3.ultimate2019.com/stream/hls/186|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Az Clic
+https://3.ultimate2019.com/stream/hls/165|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Az CorazÃƒÂ³n
+https://3.ultimate2019.com/stream/hls/166|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Azteca 1
+https://3.ultimate2019.com/stream/hls/4|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Azteca 7
+https://3.ultimate2019.com/stream/hls/5|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Baby TV
+https://3.ultimate2019.com/stream/hls/7|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Bandamax
+https://3.ultimate2019.com/stream/hls/8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", BeinSports
+https://3.ultimate2019.com/stream/hls/753|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Bob Esponja 24/7
+https://3.ultimate2019.com/stream/hls/518|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Boomerang
+https://3.ultimate2019.com/stream/hls/11|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Breaking Bad 24/7
+https://3.ultimate2019.com/stream/hls/846|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Caballeros del Zodiaco 24/7
+https://3.ultimate2019.com/stream/hls/427|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal 5
+https://3.ultimate2019.com/stream/hls/14|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal 5 Honduras
+https://3.ultimate2019.com/stream/hls/773|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal de las Estrellas
+https://3.ultimate2019.com/stream/hls/411|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal+ Accion
+https://3.ultimate2019.com/stream/hls/364|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal+ Toros
+https://3.ultimate2019.com/stream/hls/369|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Candy Candy 24/7
+https://3.ultimate2019.com/stream/hls/808|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cantinflas 24/7
+https://3.ultimate2019.com/stream/hls/428|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Caracol
+https://3.ultimate2019.com/stream/hls/391|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Caracol Internacional
+https://3.ultimate2019.com/stream/hls/290|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cartoon Network
+https://3.ultimate2019.com/stream/hls/17|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CBeebies
+https://3.ultimate2019.com/stream/hls/13|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CDF Premium
+https://3.ultimate2019.com/stream/hls/318|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CDO Premium
+https://3.ultimate2019.com/stream/hls/401|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Chapulin Colorado 24/7
+https://3.ultimate2019.com/stream/hls/418|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Chespirito 24/7
+https://3.ultimate2019.com/stream/hls/417|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Accion
+https://3.ultimate2019.com/stream/hls/699|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Accion Sagas
+https://3.ultimate2019.com/stream/hls/700|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Comedia 1
+https://3.ultimate2019.com/stream/hls/695|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Comedia 2
+https://3.ultimate2019.com/stream/hls/696|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Ficcion/Fantasia 1
+https://3.ultimate2019.com/stream/hls/709|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Ficcion/Fantasia 2
+https://3.ultimate2019.com/stream/hls/710|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Infantil
+https://3.ultimate2019.com/stream/hls/687|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Infantil Sagas
+https://3.ultimate2019.com/stream/hls/694|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Latino
+https://3.ultimate2019.com/stream/hls/295|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Marvel
+https://3.ultimate2019.com/stream/hls/697|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Romance
+https://3.ultimate2019.com/stream/hls/689|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cine Zombis
+https://3.ultimate2019.com/stream/hls/688|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cinecanal
+https://3.ultimate2019.com/stream/hls/18|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cinemax
+https://3.ultimate2019.com/stream/hls/20|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Claro Sports
+https://3.ultimate2019.com/stream/hls/328|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CNN en EspaÃƒÂ±ol
+https://3.ultimate2019.com/stream/hls/136|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Comedy Central
+https://3.ultimate2019.com/stream/hls/135|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Comedy Central (ES)
+https://3.ultimate2019.com/stream/hls/719|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Coraje el Perro Cobarde 24/7
+https://3.ultimate2019.com/stream/hls/519|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", De PelÃƒÂ­cula
+https://3.ultimate2019.com/stream/hls/21|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DHE
+https://3.ultimate2019.com/stream/hls/844|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Dinosaurios 24/7
+https://3.ultimate2019.com/stream/hls/670|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DirectTV Sports
+https://3.ultimate2019.com/stream/hls/259|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DirectTV Sports 2
+https://3.ultimate2019.com/stream/hls/667|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Channel
+https://3.ultimate2019.com/stream/hls/22|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Civilization
+https://3.ultimate2019.com/stream/hls/23|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery H&amp;H
+https://3.ultimate2019.com/stream/hls/24|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Kids
+https://3.ultimate2019.com/stream/hls/25|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery SCI
+https://3.ultimate2019.com/stream/hls/26|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Theater HD
+https://3.ultimate2019.com/stream/hls/27|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Turbo
+https://3.ultimate2019.com/stream/hls/28|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery World
+https://3.ultimate2019.com/stream/hls/187|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Disney Channel
+https://3.ultimate2019.com/stream/hls/29|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Disney Junior
+https://3.ultimate2019.com/stream/hls/30|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Distrito Comedia
+https://3.ultimate2019.com/stream/hls/32|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Doraemon 24/7
+https://3.ultimate2019.com/stream/hls/521|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Dragon Ball 24/7
+https://3.ultimate2019.com/stream/hls/425|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Dragon Ball GT 24/7
+https://3.ultimate2019.com/stream/hls/520|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Dragon Ball Super 24/7
+https://3.ultimate2019.com/stream/hls/424|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Dragon Ball Z 24/7
+https://3.ultimate2019.com/stream/hls/329|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", E!
+https://3.ultimate2019.com/stream/hls/33|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Ecuavisa
+https://3.ultimate2019.com/stream/hls/319|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El Chavo del 8 24/7
+https://3.ultimate2019.com/stream/hls/400|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El Gallo Claudio 24/7
+https://3.ultimate2019.com/stream/hls/845|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El Gourmet
+https://3.ultimate2019.com/stream/hls/157|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El Nueve
+https://3.ultimate2019.com/stream/hls/772|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El Pajaro Loco 24/7
+https://3.ultimate2019.com/stream/hls/525|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El Principel del Rap 24/7
+https://3.ultimate2019.com/stream/hls/430|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El Trece
+https://3.ultimate2019.com/stream/hls/765|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El Trece
+https://3.ultimate2019.com/stream/hls/767|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN
+https://3.ultimate2019.com/stream/hls/34|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN 2
+https://3.ultimate2019.com/stream/hls/35|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN 2 MX
+https://3.ultimate2019.com/stream/hls/531|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN MX
+https://3.ultimate2019.com/stream/hls/530|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN Plus
+https://3.ultimate2019.com/stream/hls/37|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", F1 TV
+https://3.ultimate2019.com/stream/hls/192|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox
+https://3.ultimate2019.com/stream/hls/45|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports
+https://3.ultimate2019.com/stream/hls/52|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports 2
+https://3.ultimate2019.com/stream/hls/53|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports 2 MX
+https://3.ultimate2019.com/stream/hls/528|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports 3
+https://3.ultimate2019.com/stream/hls/54|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports MX
+https://3.ultimate2019.com/stream/hls/527|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports Premium
+https://3.ultimate2019.com/stream/hls/512|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports Sur
+https://3.ultimate2019.com/stream/hls/402|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports Sur 2
+https://3.ultimate2019.com/stream/hls/410|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports Sur 3
+https://3.ultimate2019.com/stream/hls/511|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Futurama 24/7
+https://3.ultimate2019.com/stream/hls/793|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", FX
+https://3.ultimate2019.com/stream/hls/42|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Gala TV
+https://3.ultimate2019.com/stream/hls/56|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Game of Thrones 24/7
+https://3.ultimate2019.com/stream/hls/515|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Garfield 24/7
+https://3.ultimate2019.com/stream/hls/812|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Glitz
+https://3.ultimate2019.com/stream/hls/158|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Gol Peru
+https://3.ultimate2019.com/stream/hls/686|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Gol TV
+https://3.ultimate2019.com/stream/hls/287|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Golden
+https://3.ultimate2019.com/stream/hls/57|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Golden Edge
+https://3.ultimate2019.com/stream/hls/58|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", H2
+https://3.ultimate2019.com/stream/hls/61|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO
+https://3.ultimate2019.com/stream/hls/62|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO 2
+https://3.ultimate2019.com/stream/hls/300|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Family
+https://3.ultimate2019.com/stream/hls/63|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Plus
+https://3.ultimate2019.com/stream/hls/64|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Xtreme
+https://3.ultimate2019.com/stream/hls/814|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HCH
+https://3.ultimate2019.com/stream/hls/779|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Hey Arnold 24/7
+https://3.ultimate2019.com/stream/hls/522|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Historia (ES)
+https://3.ultimate2019.com/stream/hls/718|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", History Channel
+https://3.ultimate2019.com/stream/hls/67|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Hola TV
+https://3.ultimate2019.com/stream/hls/189|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HTV
+https://3.ultimate2019.com/stream/hls/66|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", I.Sat
+https://3.ultimate2019.com/stream/hls/153|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Imagen Television
+https://3.ultimate2019.com/stream/hls/341|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Investigation Discovery
+https://3.ultimate2019.com/stream/hls/68|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", La Pantera Rosa 24/7
+https://3.ultimate2019.com/stream/hls/671|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Latina TV
+https://3.ultimate2019.com/stream/hls/782|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Lifetime
+https://3.ultimate2019.com/stream/hls/152|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Looney Tunes 24/7
+https://3.ultimate2019.com/stream/hls/524|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Los AÃƒÂ±os Maravillosos 24/7
+https://3.ultimate2019.com/stream/hls/810|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Los Picapiedra 24/7
+https://3.ultimate2019.com/stream/hls/669|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Los Simpson 24/7
+https://3.ultimate2019.com/stream/hls/357|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Malcolm 24/7
+https://3.ultimate2019.com/stream/hls/798|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Mega
+https://3.ultimate2019.com/stream/hls/766|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movie Max
+https://3.ultimate2019.com/stream/hls/678|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movistar Comedia
+https://3.ultimate2019.com/stream/hls/370|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movistar Deportes
+https://3.ultimate2019.com/stream/hls/366|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movistar Deportes 2
+https://3.ultimate2019.com/stream/hls/367|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Mr. Bean 24/7
+https://3.ultimate2019.com/stream/hls/431|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MTV
+https://3.ultimate2019.com/stream/hls/69|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MTV (ES)
+https://3.ultimate2019.com/stream/hls/803|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MTV Live
+https://3.ultimate2019.com/stream/hls/70|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Multimedios
+https://3.ultimate2019.com/stream/hls/155|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Naruto 24/7
+https://3.ultimate2019.com/stream/hls/523|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Nat Geo
+https://3.ultimate2019.com/stream/hls/76|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Nat Geo Wild
+https://3.ultimate2019.com/stream/hls/77|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NBA
+https://3.ultimate2019.com/stream/hls/838|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NFL Network
+https://3.ultimate2019.com/stream/hls/204|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Nick
+https://3.ultimate2019.com/stream/hls/78|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Nick JR
+https://3.ultimate2019.com/stream/hls/79|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Nick Toons
+https://3.ultimate2019.com/stream/hls/80|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Nickelodeon
+https://3.ultimate2019.com/stream/hls/184|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", One Punch Man 24/7
+https://3.ultimate2019.com/stream/hls/661|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Padre de Familia 24/7
+https://3.ultimate2019.com/stream/hls/416|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Paramount
+https://3.ultimate2019.com/stream/hls/200|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Peppa Pig 24/7
+https://3.ultimate2019.com/stream/hls/787|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", PERU: BHTV
+https://3.ultimate2019.com/stream/hls/399|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", PERU: Latina
+https://3.ultimate2019.com/stream/hls/317|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", PERU: TV Peru
+https://3.ultimate2019.com/stream/hls/306|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pinky y Cerebro 24/7
+https://3.ultimate2019.com/stream/hls/721|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pokemon 24/7
+https://3.ultimate2019.com/stream/hls/420|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Ranma 1/2 24/7
+https://3.ultimate2019.com/stream/hls/419|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", RCN
+https://3.ultimate2019.com/stream/hls/390|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Retro Music
+https://3.ultimate2019.com/stream/hls/692|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Ritmoson Latino
+https://3.ultimate2019.com/stream/hls/154|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Sakura Card Captor 24/7
+https://3.ultimate2019.com/stream/hls/672|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Samurai X 24/7
+https://3.ultimate2019.com/stream/hls/663|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Scooby Doo 24/7
+https://3.ultimate2019.com/stream/hls/422|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Smallville 24/7
+https://3.ultimate2019.com/stream/hls/673|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Sony
+https://3.ultimate2019.com/stream/hls/145|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", South Park 24/7
+https://3.ultimate2019.com/stream/hls/674|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Space
+https://3.ultimate2019.com/stream/hls/83|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Starz Cinema
+https://3.ultimate2019.com/stream/hls/680|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Starz Encore Action
+https://3.ultimate2019.com/stream/hls/682|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Starz Encore Family
+https://3.ultimate2019.com/stream/hls/684|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Studio Universal
+https://3.ultimate2019.com/stream/hls/84|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Super Campeones 24/7
+https://3.ultimate2019.com/stream/hls/432|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", SyFy
+https://3.ultimate2019.com/stream/hls/151|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TBS Very Funny
+https://3.ultimate2019.com/stream/hls/171|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TC Ecuador
+https://3.ultimate2019.com/stream/hls/885|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TCM
+https://3.ultimate2019.com/stream/hls/85|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TeenNick
+https://3.ultimate2019.com/stream/hls/882|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tele
+https://3.ultimate2019.com/stream/hls/778|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TeleAmazonas
+https://3.ultimate2019.com/stream/hls/320|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Telefe
+https://3.ultimate2019.com/stream/hls/771|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Telehit
+https://3.ultimate2019.com/stream/hls/91|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Telemundo
+https://3.ultimate2019.com/stream/hls/92|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Televicentro
+https://3.ultimate2019.com/stream/hls/776|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", The Big Bang Theory 24/7
+https://3.ultimate2019.com/stream/hls/676|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", The Walking Dead 24/7
+https://3.ultimate2019.com/stream/hls/800|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TigoSports Bolivia
+https://3.ultimate2019.com/stream/hls/764|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tiin
+https://3.ultimate2019.com/stream/hls/93|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TLC
+https://3.ultimate2019.com/stream/hls/87|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tlnovelas
+https://3.ultimate2019.com/stream/hls/94|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT
+https://3.ultimate2019.com/stream/hls/179|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT Series
+https://3.ultimate2019.com/stream/hls/90|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT Sports
+https://3.ultimate2019.com/stream/hls/509|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tom y Jerry 24/7
+https://3.ultimate2019.com/stream/hls/421|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tooncast
+https://3.ultimate2019.com/stream/hls/95|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Trece
+https://3.ultimate2019.com/stream/hls/774|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TrollHunters 24/7
+https://3.ultimate2019.com/stream/hls/662|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TruTV
+https://3.ultimate2019.com/stream/hls/96|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TUDN
+https://3.ultimate2019.com/stream/hls/698|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TUDN (Pocos Datos)
+https://3.ultimate2019.com/stream/hls/822|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TUDN USA
+https://3.ultimate2019.com/stream/hls/86|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TVC Deportes
+https://3.ultimate2019.com/stream/hls/837|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Two And a Half Men 24/7
+https://3.ultimate2019.com/stream/hls/675|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tyc Sports
+https://3.ultimate2019.com/stream/hls/274|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Unicable
+https://3.ultimate2019.com/stream/hls/98|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Universal
+https://3.ultimate2019.com/stream/hls/137|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Univision
+https://3.ultimate2019.com/stream/hls/99|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Univision Tlnovelas
+https://3.ultimate2019.com/stream/hls/413|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Uno
+https://3.ultimate2019.com/stream/hls/775|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", VH1
+https://3.ultimate2019.com/stream/hls/101|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", VTV Uruaguay
+https://3.ultimate2019.com/stream/hls/708|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Wapa PR
+https://3.ultimate2019.com/stream/hls/327|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Warner Channel
+https://3.ultimate2019.com/stream/hls/102|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Win Sports
+https://3.ultimate2019.com/stream/hls/292|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Yu-Gi-Oh! 24/7
+https://3.ultimate2019.com/stream/hls/664|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", UnivisionTDN
+https://3.ultimate2019.com/stream/hls/100|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MundoMax
+https://3.ultimate2019.com/stream/hls/141|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MTVHits
+https://3.ultimate2019.com/stream/hls/147|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Film &amp; Arts
+https://3.ultimate2019.com/stream/hls/149|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Garage TV
+https://3.ultimate2019.com/stream/hls/156|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Az Mundo
+https://3.ultimate2019.com/stream/hls/167|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", BBC Entertainment
+https://3.ultimate2019.com/stream/hls/174|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", VH1 Classic
+https://3.ultimate2019.com/stream/hls/175|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Estrella TV
+https://3.ultimate2019.com/stream/hls/177|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Maschic
+https://3.ultimate2019.com/stream/hls/180|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HMX
+https://3.ultimate2019.com/stream/hls/188|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cinecanal
+https://3.ultimate2019.com/stream/hls/19|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fashion TV
+https://3.ultimate2019.com/stream/hls/190|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TVE
+https://3.ultimate2019.com/stream/hls/191|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TVE
+https://3.ultimate2019.com/stream/hls/195|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CH CHV
+https://3.ultimate2019.com/stream/hls/198|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CDNSportmax
+https://3.ultimate2019.com/stream/hls/206|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El 13 Argentina
+https://3.ultimate2019.com/stream/hls/239|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", WWE Network
+https://3.ultimate2019.com/stream/hls/276|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Deportes 1
+https://3.ultimate2019.com/stream/hls/286|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 291
+https://3.ultimate2019.com/stream/hls/291|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MLB Network
+https://3.ultimate2019.com/stream/hls/293|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MultiPremier
+https://3.ultimate2019.com/stream/hls/294|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TeleRitmo
+https://3.ultimate2019.com/stream/hls/299|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Series
+https://3.ultimate2019.com/stream/hls/303|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canalde las Estrellas 2
+https://3.ultimate2019.com/stream/hls/308|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal 52 Horas
+https://3.ultimate2019.com/stream/hls/309|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Disney XD
+https://3.ultimate2019.com/stream/hls/31|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Televisa Monterrey
+https://3.ultimate2019.com/stream/hls/310|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", XEWT Tijuana
+https://3.ultimate2019.com/stream/hls/311|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Multimedios Plus
+https://3.ultimate2019.com/stream/hls/325|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN 3
+https://3.ultimate2019.com/stream/hls/352|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Telemundo 33
+https://3.ultimate2019.com/stream/hls/353|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 359
+https://3.ultimate2019.com/stream/hls/359|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 36
+https://3.ultimate2019.com/stream/hls/36|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Telemundo 33
+https://3.ultimate2019.com/stream/hls/360|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Channel 2
+https://3.ultimate2019.com/stream/hls/362|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MoviFutbol
+https://3.ultimate2019.com/stream/hls/368|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movistar Cine N
+https://3.ultimate2019.com/stream/hls/371|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movi Xtra
+https://3.ultimate2019.com/stream/hls/372|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Univision Deportes
+https://3.ultimate2019.com/stream/hls/373|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Once Ninos
+https://3.ultimate2019.com/stream/hls/377|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Locomotion
+https://3.ultimate2019.com/stream/hls/394|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC Urbana
+https://3.ultimate2019.com/stream/hls/395|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC Pop Latino
+https://3.ultimate2019.com/stream/hls/396|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC Pop Hits
+https://3.ultimate2019.com/stream/hls/397|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Liga Campeones
+https://3.ultimate2019.com/stream/hls/404|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox 2
+https://3.ultimate2019.com/stream/hls/407|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NatGeo Kids
+https://3.ultimate2019.com/stream/hls/412|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Azteca1 3 2
+https://3.ultimate2019.com/stream/hls/414|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Dragon Ball Z 22
+https://3.ultimate2019.com/stream/hls/415|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Los 3 Chiflados
+https://3.ultimate2019.com/stream/hls/423|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", El Coyote Y El Correcaminos
+https://3.ultimate2019.com/stream/hls/429|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", FilmZone HD
+https://3.ultimate2019.com/stream/hls/43|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", SoluMedia (Ar)
+https://3.ultimate2019.com/stream/hls/437|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC Hit List
+https://3.ultimate2019.com/stream/hls/440|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC EDM
+https://3.ultimate2019.com/stream/hls/441|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC 90s
+https://3.ultimate2019.com/stream/hls/442|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC Mexicana
+https://3.ultimate2019.com/stream/hls/443|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tlnovelas 2
+https://3.ultimate2019.com/stream/hls/446|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Bravo HD
+https://3.ultimate2019.com/stream/hls/453|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CBS HD
+https://3.ultimate2019.com/stream/hls/454|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CW
+https://3.ultimate2019.com/stream/hls/455|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Hallmark
+https://3.ultimate2019.com/stream/hls/456|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NBC HD
+https://3.ultimate2019.com/stream/hls/457|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NBC Sports
+https://3.ultimate2019.com/stream/hls/458|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NBC SN
+https://3.ultimate2019.com/stream/hls/459|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Action
+https://3.ultimate2019.com/stream/hls/46|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NFL NOW
+https://3.ultimate2019.com/stream/hls/460|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Comedy
+https://3.ultimate2019.com/stream/hls/464|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Zone
+https://3.ultimate2019.com/stream/hls/465|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO (En)
+https://3.ultimate2019.com/stream/hls/466|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Signature (En)
+https://3.ultimate2019.com/stream/hls/467|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cinemax East
+https://3.ultimate2019.com/stream/hls/468|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports (En)
+https://3.ultimate2019.com/stream/hls/469|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Cinema
+https://3.ultimate2019.com/stream/hls/47|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports 2 (En)
+https://3.ultimate2019.com/stream/hls/470|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports 3 (En)
+https://3.ultimate2019.com/stream/hls/471|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN (En)
+https://3.ultimate2019.com/stream/hls/472|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN 2 (En)
+https://3.ultimate2019.com/stream/hls/473|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", A&amp;E HD
+https://3.ultimate2019.com/stream/hls/474|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AMC HD
+https://3.ultimate2019.com/stream/hls/475|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AXN HD
+https://3.ultimate2019.com/stream/hls/476|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Bein
+https://3.ultimate2019.com/stream/hls/477|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal de las Estrellas HD
+https://3.ultimate2019.com/stream/hls/478|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cinecanal HD
+https://3.ultimate2019.com/stream/hls/479|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Classics
+https://3.ultimate2019.com/stream/hls/48|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Comedy Central HD
+https://3.ultimate2019.com/stream/hls/480|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DePelicula HD
+https://3.ultimate2019.com/stream/hls/481|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DistritoComedia HD
+https://3.ultimate2019.com/stream/hls/482|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", E HD
+https://3.ultimate2019.com/stream/hls/483|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN2 HD
+https://3.ultimate2019.com/stream/hls/484|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN3 HD
+https://3.ultimate2019.com/stream/hls/485|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN HD
+https://3.ultimate2019.com/stream/hls/486|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN Plus HD
+https://3.ultimate2019.com/stream/hls/487|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", FilmZone HD
+https://3.ultimate2019.com/stream/hls/488|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star HD
+https://3.ultimate2019.com/stream/hls/489|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Fun
+https://3.ultimate2019.com/stream/hls/49|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Hits HD
+https://3.ultimate2019.com/stream/hls/491|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Series HD
+https://3.ultimate2019.com/stream/hls/492|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports HD
+https://3.ultimate2019.com/stream/hls/493|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", FX HD
+https://3.ultimate2019.com/stream/hls/495|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Golden HD
+https://3.ultimate2019.com/stream/hls/496|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NatGeo Wild HD
+https://3.ultimate2019.com/stream/hls/497|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Sony HD
+https://3.ultimate2019.com/stream/hls/498|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Space HD
+https://3.ultimate2019.com/stream/hls/499|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Life
+https://3.ultimate2019.com/stream/hls/50|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT HD
+https://3.ultimate2019.com/stream/hls/500|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TruTV HD
+https://3.ultimate2019.com/stream/hls/501|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Universal HD
+https://3.ultimate2019.com/stream/hls/502|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Warner Channel HD
+https://3.ultimate2019.com/stream/hls/503|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Taquilla 1
+https://3.ultimate2019.com/stream/hls/504|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Taquilla 2
+https://3.ultimate2019.com/stream/hls/505|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Taquilla 3
+https://3.ultimate2019.com/stream/hls/506|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Taquilla 4
+https://3.ultimate2019.com/stream/hls/507|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Taquilla 5
+https://3.ultimate2019.com/stream/hls/508|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Hits
+https://3.ultimate2019.com/stream/hls/51|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Bein
+https://3.ultimate2019.com/stream/hls/510|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", GolTV HD
+https://3.ultimate2019.com/stream/hls/514|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tu Musica HD
+https://3.ultimate2019.com/stream/hls/516|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CNT Sports
+https://3.ultimate2019.com/stream/hls/526|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox HD
+https://3.ultimate2019.com/stream/hls/55|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Golden Premier
+https://3.ultimate2019.com/stream/hls/59|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Golden Premier+
+https://3.ultimate2019.com/stream/hls/60|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", VH1 HD
+https://3.ultimate2019.com/stream/hls/632|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Animal Planet HD
+https://3.ultimate2019.com/stream/hls/633|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Azteca7 HD
+https://3.ultimate2019.com/stream/hls/635|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal de las Estrellas HD
+https://3.ultimate2019.com/stream/hls/636|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cartoon Network HD
+https://3.ultimate2019.com/stream/hls/637|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cinemax HD
+https://3.ultimate2019.com/stream/hls/638|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Channel HD
+https://3.ultimate2019.com/stream/hls/639|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery HH HD
+https://3.ultimate2019.com/stream/hls/640|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Kids HD
+https://3.ultimate2019.com/stream/hls/641|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", History Channel HD
+https://3.ultimate2019.com/stream/hls/642|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Imagen Television HD
+https://3.ultimate2019.com/stream/hls/643|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NatGeo HD
+https://3.ultimate2019.com/stream/hls/644|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Nick HD
+https://3.ultimate2019.com/stream/hls/645|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Paramount HD
+https://3.ultimate2019.com/stream/hls/647|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", SyFy HD
+https://3.ultimate2019.com/stream/hls/648|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Telehit HD
+https://3.ultimate2019.com/stream/hls/649|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Signature
+https://3.ultimate2019.com/stream/hls/65|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT Series HD
+https://3.ultimate2019.com/stream/hls/650|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", GalaTV HD
+https://3.ultimate2019.com/stream/hls/651|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Life HD
+https://3.ultimate2019.com/stream/hls/652|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Unicable HD
+https://3.ultimate2019.com/stream/hls/653|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO HD
+https://3.ultimate2019.com/stream/hls/654|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Plus HD
+https://3.ultimate2019.com/stream/hls/655|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Azteca7 2 HD
+https://3.ultimate2019.com/stream/hls/657|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN Premium
+https://3.ultimate2019.com/stream/hls/658|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MaxUp HD
+https://3.ultimate2019.com/stream/hls/659|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Telemundo HD
+https://3.ultimate2019.com/stream/hls/660|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Starz Comedy
+https://3.ultimate2019.com/stream/hls/679|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Starz Encore Black
+https://3.ultimate2019.com/stream/hls/681|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Starz East
+https://3.ultimate2019.com/stream/hls/683|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Music Now
+https://3.ultimate2019.com/stream/hls/685|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Music Top
+https://3.ultimate2019.com/stream/hls/690|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Terror HD
+https://3.ultimate2019.com/stream/hls/691|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Marvel HD
+https://3.ultimate2019.com/stream/hls/693|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Infantil HD
+https://3.ultimate2019.com/stream/hls/701|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Infantil Sagas HD
+https://3.ultimate2019.com/stream/hls/702|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Terror 2 HD
+https://3.ultimate2019.com/stream/hls/703|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Romance HD
+https://3.ultimate2019.com/stream/hls/704|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Accion HD
+https://3.ultimate2019.com/stream/hls/705|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Accion Sagas HD
+https://3.ultimate2019.com/stream/hls/706|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Accion Sagas 2 HD
+https://3.ultimate2019.com/stream/hls/707|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Ficcion HD
+https://3.ultimate2019.com/stream/hls/712|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AMC (Es) HD
+https://3.ultimate2019.com/stream/hls/715|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT (Es) HD
+https://3.ultimate2019.com/stream/hls/716|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Nova (Es)
+https://3.ultimate2019.com/stream/hls/717|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Crime Investigation
+https://3.ultimate2019.com/stream/hls/720|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Plus (En)
+https://3.ultimate2019.com/stream/hls/722|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO (En)
+https://3.ultimate2019.com/stream/hls/723|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO 2 (En)
+https://3.ultimate2019.com/stream/hls/724|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT Sport HD
+https://3.ultimate2019.com/stream/hls/725|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Turbo HD
+https://3.ultimate2019.com/stream/hls/727|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Plus Oeste HD
+https://3.ultimate2019.com/stream/hls/728|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", FilmArts HD (En)
+https://3.ultimate2019.com/stream/hls/729|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MaxPrime
+https://3.ultimate2019.com/stream/hls/73|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MaxPrime HD
+https://3.ultimate2019.com/stream/hls/730|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO 2 HD
+https://3.ultimate2019.com/stream/hls/732|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO 2 HD (En)
+https://3.ultimate2019.com/stream/hls/733|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AE LD
+https://3.ultimate2019.com/stream/hls/734|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Boomerang LD
+https://3.ultimate2019.com/stream/hls/735|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal de las Estrellas LD
+https://3.ultimate2019.com/stream/hls/736|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cartoon Network LD
+https://3.ultimate2019.com/stream/hls/737|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cinecanal LD
+https://3.ultimate2019.com/stream/hls/738|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Cinemax LD
+https://3.ultimate2019.com/stream/hls/739|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MaxUp
+https://3.ultimate2019.com/stream/hls/74|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Comedy Central LD
+https://3.ultimate2019.com/stream/hls/740|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery Channel LD
+https://3.ultimate2019.com/stream/hls/741|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Discovery HH LD
+https://3.ultimate2019.com/stream/hls/742|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Disney Junior LD
+https://3.ultimate2019.com/stream/hls/743|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Disney XD LD
+https://3.ultimate2019.com/stream/hls/744|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Series LD
+https://3.ultimate2019.com/stream/hls/745|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", FoxLife LD
+https://3.ultimate2019.com/stream/hls/746|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Movies LD
+https://3.ultimate2019.com/stream/hls/747|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports MX LD
+https://3.ultimate2019.com/stream/hls/748|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", FX LD
+https://3.ultimate2019.com/stream/hls/749|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Mundo Fox
+https://3.ultimate2019.com/stream/hls/75|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star LD
+https://3.ultimate2019.com/stream/hls/750|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Space LD
+https://3.ultimate2019.com/stream/hls/751|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT LD
+https://3.ultimate2019.com/stream/hls/752|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Win Sports HD
+https://3.ultimate2019.com/stream/hls/754|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pasiones HD
+https://3.ultimate2019.com/stream/hls/755|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT Series LD
+https://3.ultimate2019.com/stream/hls/757|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", SyFy LD
+https://3.ultimate2019.com/stream/hls/758|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Warner Channel LD
+https://3.ultimate2019.com/stream/hls/759|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", H2 LD
+https://3.ultimate2019.com/stream/hls/760|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Bein Sports N LD
+https://3.ultimate2019.com/stream/hls/761|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Bein HD
+https://3.ultimate2019.com/stream/hls/763|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC Y2K
+https://3.ultimate2019.com/stream/hls/768|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports AR HD
+https://3.ultimate2019.com/stream/hls/769|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports 2 AR HD
+https://3.ultimate2019.com/stream/hls/770|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC Tropical
+https://3.ultimate2019.com/stream/hls/777|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", BO RTP
+https://3.ultimate2019.com/stream/hls/781|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", BO Bolivision
+https://3.ultimate2019.com/stream/hls/783|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", PR Mega
+https://3.ultimate2019.com/stream/hls/784|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 CatDog
+https://3.ultimate2019.com/stream/hls/785|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Johnny Bravo
+https://3.ultimate2019.com/stream/hls/786|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Barbie HD
+https://3.ultimate2019.com/stream/hls/788|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Brickleberry HD
+https://3.ultimate2019.com/stream/hls/789|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 El ChavoAnimado HD
+https://3.ultimate2019.com/stream/hls/790|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Gumball HD
+https://3.ultimate2019.com/stream/hls/791|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Pequena Lulu HD
+https://3.ultimate2019.com/stream/hls/792|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Pinguinos Madagascar HD
+https://3.ultimate2019.com/stream/hls/794|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Los Pitufos HD
+https://3.ultimate2019.com/stream/hls/795|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Reyes De La Colina HD
+https://3.ultimate2019.com/stream/hls/796|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Los Supersonicos
+https://3.ultimate2019.com/stream/hls/797|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Pocoyo
+https://3.ultimate2019.com/stream/hls/799|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TUDN HD
+https://3.ultimate2019.com/stream/hls/801|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Win Sports Plus LD
+https://3.ultimate2019.com/stream/hls/802|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AXN LD
+https://3.ultimate2019.com/stream/hls/804|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Paw Patrol
+https://3.ultimate2019.com/stream/hls/807|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 La Familia PeLuche
+https://3.ultimate2019.com/stream/hls/811|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movi La Liga
+https://3.ultimate2019.com/stream/hls/815|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC Rap
+https://3.ultimate2019.com/stream/hls/816|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MC Rock
+https://3.ultimate2019.com/stream/hls/817|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Los Vengadores Unidos
+https://3.ultimate2019.com/stream/hls/818|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Pato Aventuras
+https://3.ultimate2019.com/stream/hls/819|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 El Senior De Los Cielos
+https://3.ultimate2019.com/stream/hls/820|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MTV LD
+https://3.ultimate2019.com/stream/hls/823|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Boomerang HD
+https://3.ultimate2019.com/stream/hls/824|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Investigation Discovery HD
+https://3.ultimate2019.com/stream/hls/825|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Disney XD HD
+https://3.ultimate2019.com/stream/hls/827|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MTV HD
+https://3.ultimate2019.com/stream/hls/828|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Studio Universal HD
+https://3.ultimate2019.com/stream/hls/830|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TBS Very Funny HD
+https://3.ultimate2019.com/stream/hls/831|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tl novelas HD
+https://3.ultimate2019.com/stream/hls/832|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Bandamax HD
+https://3.ultimate2019.com/stream/hls/833|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AzCorazon HD
+https://3.ultimate2019.com/stream/hls/834|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AzMundo HD
+https://3.ultimate2019.com/stream/hls/835|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Televisa Puebla HD
+https://3.ultimate2019.com/stream/hls/836|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports 3 MX HD
+https://3.ultimate2019.com/stream/hls/839|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star Fun HD
+https://3.ultimate2019.com/stream/hls/840|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Mundi HD
+https://3.ultimate2019.com/stream/hls/841|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN CL
+https://3.ultimate2019.com/stream/hls/842|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Tigo Sports PA
+https://3.ultimate2019.com/stream/hls/843|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 1
+https://3.ultimate2019.com/stream/hls/847|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 2
+https://3.ultimate2019.com/stream/hls/848|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 3
+https://3.ultimate2019.com/stream/hls/849|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 4
+https://3.ultimate2019.com/stream/hls/850|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 5
+https://3.ultimate2019.com/stream/hls/851|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 6
+https://3.ultimate2019.com/stream/hls/852|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 7
+https://3.ultimate2019.com/stream/hls/853|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 8
+https://3.ultimate2019.com/stream/hls/854|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 9
+https://3.ultimate2019.com/stream/hls/855|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 10
+https://3.ultimate2019.com/stream/hls/856|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 1 HD
+https://3.ultimate2019.com/stream/hls/858|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 10 HD
+https://3.ultimate2019.com/stream/hls/867|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 11
+https://3.ultimate2019.com/stream/hls/868|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 2 HD
+https://3.ultimate2019.com/stream/hls/869|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 3 HD
+https://3.ultimate2019.com/stream/hls/870|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 4 HD
+https://3.ultimate2019.com/stream/hls/871|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 9 HD
+https://3.ultimate2019.com/stream/hls/872|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 5 HD
+https://3.ultimate2019.com/stream/hls/873|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 6 HD
+https://3.ultimate2019.com/stream/hls/874|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 8 HD
+https://3.ultimate2019.com/stream/hls/875|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 7 HD
+https://3.ultimate2019.com/stream/hls/876|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Pay per View 4 LD
+https://3.ultimate2019.com/stream/hls/877|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Max Steel
+https://3.ultimate2019.com/stream/hls/880|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Win Sports Plus LD
+https://3.ultimate2019.com/stream/hls/881|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 La Rosa De Gudalupe
+https://3.ultimate2019.com/stream/hls/886|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 La Hora Pico
+https://3.ultimate2019.com/stream/hls/887|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Le Temes A La Oscuridad
+https://3.ultimate2019.com/stream/hls/888|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 SpiderMan
+https://3.ultimate2019.com/stream/hls/889|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Liga De Campeones HD
+https://3.ultimate2019.com/stream/hls/890|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", EC Gama
+https://3.ultimate2019.com/stream/hls/891|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", EC Canal Del Futbol
+https://3.ultimate2019.com/stream/hls/892|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Liga De Campeones 2
+https://3.ultimate2019.com/stream/hls/893|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Bein Sports LD
+https://3.ultimate2019.com/stream/hls/9|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Sky Sports Premier HD
+https://3.ultimate2019.com/stream/hls/900|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Universal Premiere HD
+https://3.ultimate2019.com/stream/hls/901|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Universal Cinema HD
+https://3.ultimate2019.com/stream/hls/902|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Universal Comedy HD
+https://3.ultimate2019.com/stream/hls/903|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Universal Crime HD
+https://3.ultimate2019.com/stream/hls/904|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Universal Reality HD
+https://3.ultimate2019.com/stream/hls/905|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT Sports CL
+https://3.ultimate2019.com/stream/hls/906|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Caso Cerrado
+https://3.ultimate2019.com/stream/hls/907|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 CSI Miami LD
+https://3.ultimate2019.com/stream/hls/908|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Jorge El Curioso
+https://3.ultimate2019.com/stream/hls/909|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Malcolm
+https://3.ultimate2019.com/stream/hls/911|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Comedia HD
+https://3.ultimate2019.com/stream/hls/914|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Comedia 2 HD
+https://3.ultimate2019.com/stream/hls/915|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movistar La Liga HD
+https://3.ultimate2019.com/stream/hls/916|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Zombies HD
+https://3.ultimate2019.com/stream/hls/917|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DAZN1 HD
+https://3.ultimate2019.com/stream/hls/919|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DAZN2 HD
+https://3.ultimate2019.com/stream/hls/920|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Telecinco HD
+https://3.ultimate2019.com/stream/hls/922|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DMax HD
+https://3.ultimate2019.com/stream/hls/923|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movistar Series HD
+https://3.ultimate2019.com/stream/hls/924|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movistar Deportes HD
+https://3.ultimate2019.com/stream/hls/925|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox (Es) HD
+https://3.ultimate2019.com/stream/hls/926|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", La1 (Es)HD
+https://3.ultimate2019.com/stream/hls/927|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", La Sexta (Es)HD
+https://3.ultimate2019.com/stream/hls/928|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Mega (Es) HD
+https://3.ultimate2019.com/stream/hls/929|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TVE (Es) HD
+https://3.ultimate2019.com/stream/hls/930|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", BBC HD
+https://3.ultimate2019.com/stream/hls/931|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", CBS HD
+https://3.ultimate2019.com/stream/hls/932|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NBC HD
+https://3.ultimate2019.com/stream/hls/933|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", PAC12 HD
+https://3.ultimate2019.com/stream/hls/934|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DirecTV Sport Plus
+https://3.ultimate2019.com/stream/hls/935|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports (Usa) HD
+https://3.ultimate2019.com/stream/hls/936|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox Sports 2(Usa) HD
+https://3.ultimate2019.com/stream/hls/937|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Afizzionados
+https://3.ultimate2019.com/stream/hls/939|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Vamos (Es)HD
+https://3.ultimate2019.com/stream/hls/940|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal 5 (Mx)HD
+https://3.ultimate2019.com/stream/hls/941|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Multimedios (Mx)HD
+https://3.ultimate2019.com/stream/hls/943|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Star TVE
+https://3.ultimate2019.com/stream/hls/944|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", A3Cine (Es)
+https://3.ultimate2019.com/stream/hls/945|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", BitMe
+https://3.ultimate2019.com/stream/hls/946|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", NBC Golf
+https://3.ultimate2019.com/stream/hls/947|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 IronMan (1994)
+https://3.ultimate2019.com/stream/hls/948|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN4
+https://3.ultimate2019.com/stream/hls/951|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN Premium HD
+https://3.ultimate2019.com/stream/hls/952|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MTV LD
+https://3.ultimate2019.com/stream/hls/953|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MTV WWW
+https://3.ultimate2019.com/stream/hls/954|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", MTV 90s
+https://3.ultimate2019.com/stream/hls/955|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Zona TUDN
+https://3.ultimate2019.com/stream/hls/956|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Europa
+https://3.ultimate2019.com/stream/hls/957|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Quiero Musica
+https://3.ultimate2019.com/stream/hls/958|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Paka Paka
+https://3.ultimate2019.com/stream/hls/959|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Fox News (Usa)
+https://3.ultimate2019.com/stream/hls/960|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Food Network
+https://3.ultimate2019.com/stream/hls/961|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Canal De La Musica
+https://3.ultimate2019.com/stream/hls/962|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Telemax
+https://3.ultimate2019.com/stream/hls/963|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Basket Americas
+https://3.ultimate2019.com/stream/hls/965|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Morbido TV
+https://3.ultimate2019.com/stream/hls/966|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", La2 (Es) HD
+https://3.ultimate2019.com/stream/hls/967|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Family HD
+https://3.ultimate2019.com/stream/hls/968|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", SyFy (Es) HD
+https://3.ultimate2019.com/stream/hls/969|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", UFC Network
+https://3.ultimate2019.com/stream/hls/97|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Paramount (Es) HD
+https://3.ultimate2019.com/stream/hls/970|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Xtreme HD
+https://3.ultimate2019.com/stream/hls/971|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", ESPN Premium
+https://3.ultimate2019.com/stream/hls/972|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DirecTV Sports HD
+https://3.ultimate2019.com/stream/hls/974|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DirecTV Sports 2 HD
+https://3.ultimate2019.com/stream/hls/975|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Movistar Estrenos HD
+https://3.ultimate2019.com/stream/hls/976|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", HBO Pop
+https://3.ultimate2019.com/stream/hls/977|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", DirecTV Sports 2 Sur HD
+https://3.ultimate2019.com/stream/hls/978|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Multimedios Monterrey (Mx)
+https://3.ultimate2019.com/stream/hls/979|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Multimedios Monterrey (Mx) HD
+https://3.ultimate2019.com/stream/hls/980|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", AMC (Es)
+https://3.ultimate2019.com/stream/hls/981|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", TNT (Es)
+https://3.ultimate2019.com/stream/hls/982|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", 24/7 Daria
+https://3.ultimate2019.com/stream/hls/983|user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="IPTV", Dragon Ball (Es)
+https://3.ultimate2019.com/stream/hls/984|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="IPTV" tvg-chno="18", Pluto TV Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="IPTV" tvg-chno="21", Pluto TV Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-name="Estrellas de Acción" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="IPTV" tvg-chno="24", Estrellas de Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" tvg-name="Pluto TV Adrenalina Freezone" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="IPTV" tvg-chno="27", Pluto TV Adrenalina Freezone
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="IPTV" tvg-chno="33", Pluto TV Cine Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcddfcb229eff00091b6bdf" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="IPTV" tvg-chno="36", Pluto TV Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd7ea2aeab5230009986735" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="IPTV" tvg-chno="39", Pluto TV Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-name="Pluto TV Cine Suspenso" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="IPTV" tvg-chno="42", Pluto TV Cine Suspenso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="624af40c004f8000079b784d" tvg-name="Pluto TV Cine Crimen" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="IPTV" tvg-chno="45", Pluto TV Cine Crimen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="IPTV" tvg-chno="48", Pluto TV Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="IPTV" tvg-chno="51", Pluto TV Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="IPTV" tvg-chno="57", Runtime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5fcea359e533cb0007215c71" tvg-name="Pluto TV Filmstream" tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png" group-title="IPTV" tvg-chno="60", Pluto TV Filmstream
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-name="Pluto TV  Nuestro Cine" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="IPTV" tvg-chno="66", Pluto TV  Nuestro Cine
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="609059dc63be6e0007b4eca6" tvg-name="Pluto TV Cine Clásico" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="IPTV" tvg-chno="87", Pluto TV Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="IPTV" tvg-chno="90", Pluto TV Cine Familia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="600728952b1776000776526d" tvg-name="Paramount+ Presenta" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="IPTV" tvg-chno="100", Paramount+ Presenta
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-name="Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="IPTV" tvg-chno="140", Pluto TV Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="624f4d4a4321e200073f46e0" tvg-name="The Night Shift" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="IPTV" tvg-chno="146", The Night Shift
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="620ac814864949000724fb77" tvg-name="Schitt's Creek" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" group-title="IPTV" tvg-chno="153", Schitt's Creek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb77/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="619d56d9fa3070000709e3f7" tvg-name="Younger" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="IPTV" tvg-chno="175", Younger
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="639751f81a36b400072b8f5a" tvg-name="Vive Kanal D Drama" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="IPTV" tvg-chno="184", Vive Kanal D Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/639751f81a36b400072b8f5a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ffe17e3d765170007c3a4fe" tvg-name="Pluto TV España" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="IPTV" tvg-chno="190", Pluto TV España
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-name="Pluto TV Series Latinas" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="IPTV" tvg-chno="195", Pluto TV Series Latinas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="IPTV" tvg-chno="203", Pluto TV Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="631fb6be21b7440007b9f606" tvg-name="Hechizada" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="IPTV" tvg-chno="211", Hechizada
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63eb95baa99571000898a078" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="IPTV" tvg-chno="235", MacGyver
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb95baa99571000898a078/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63eb93a1c111bc0008fe6f5b" tvg-name="Beverly Hills 90210" tvg-logo="https://images.pluto.tv/channels/63eb93a1c111bc0008fe6f5b/colorLogoPNG.png" group-title="IPTV" tvg-chno="250", Beverly Hills 90210
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb93a1c111bc0008fe6f5b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="62e017e44823db000726cd9a" tvg-name="The Ed Sullivan Show" tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" group-title="IPTV" tvg-chno="261", The Ed Sullivan Show
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-name="Pluto TV Retro Cartoons" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="IPTV" tvg-chno="265", Pluto TV Retro Cartoons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="IPTV" tvg-chno="278", Pluto TV Novelas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="604bdf4e6d0abc0007ba77ad" tvg-name="Sin Tetas No Hay Paraíso" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="IPTV" tvg-chno="328", Sin Tetas No Hay Paraíso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63211ba9cad976000794f988" tvg-name="La Selección" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="IPTV" tvg-chno="331", La Selección
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="61f159209fcc3800076ed4a1" tvg-name="Rock Story" tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" group-title="IPTV" tvg-chno="367", Rock Story
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f159209fcc3800076ed4a1/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="IPTV" tvg-chno="380", Pluto TV Reality
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="64510d3ad3fdde00080951f2" tvg-name="MTV Drag" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" group-title="IPTV" tvg-chno="383", MTV Drag
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64510d3ad3fdde00080951f2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5fab088b3279760007d4e4fd" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="IPTV" tvg-chno="385", MTV Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5de91b7ea86ee60009d89e75" tvg-name="MTV Classic" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="IPTV" tvg-chno="387", MTV Classic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="61a52615cbef2500072876e2" tvg-name="MTV Shore" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="IPTV" tvg-chno="389", MTV Shore
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="638693db857364000781b471" tvg-name="MTV Con Mi Ex" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="IPTV" tvg-chno="391", MTV Con Mi Ex
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638693db857364000781b471/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5e98a911c881310007d7aae2" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="IPTV" tvg-chno="393", MTV Ridiculousness
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="620fd9f4afb9a80007a9c6d5" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="IPTV" tvg-chno="395", MTV Teen Mom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620fd9f4afb9a80007a9c6d5/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="625461ef01f27a0007976ad1" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="IPTV" tvg-chno="397", MTV Catfish
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625461ef01f27a0007976ad1/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd6d935d000120009bc1132" tvg-name="Pluto TV  Competencias" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="IPTV" tvg-chno="427", Pluto TV  Competencias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="615b9855c6b58b000724477f" tvg-name="Iron Chef" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" group-title="IPTV" tvg-chno="431", Iron Chef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-name="MasterChef" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="IPTV" tvg-chno="435", MasterChef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-name="Hells Kitchen" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="IPTV" tvg-chno="443", Hells Kitchen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-name="Minuto Para Ganar" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="IPTV" tvg-chno="447", Minuto Para Ganar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6099600015e88c0007ecda25" tvg-name="Boom" tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" group-title="IPTV" tvg-chno="451", Boom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-name="Wipe Out" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="IPTV" tvg-chno="455", Wipe Out
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd85eac039bba0009e86d1d" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="IPTV" tvg-chno="477", Pluto TV Naturaleza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-name="Paisajes por Stingray" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="IPTV" tvg-chno="480", Paisajes por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="IPTV" tvg-chno="483", Pluto TV Animales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="61099f2b40d0640007fc5aa2" tvg-name="El Encantador de Perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="IPTV" tvg-chno="486", El Encantador de Perros
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ddc266f80e3550009136843" tvg-name="Pluto TV Aventura" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="IPTV" tvg-chno="489", Pluto TV Aventura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="62154548a2be360007cb02f0" tvg-name="Ice Pilots" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="IPTV" tvg-chno="492", Ice Pilots
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02f0/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-name="Pluto TV Velocidad" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="IPTV" tvg-chno="500", Pluto TV Velocidad
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="64025592953da40008bf9238" tvg-name="Obsesión por los Autos" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="IPTV" tvg-chno="503", Obsesión por los Autos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64025592953da40008bf9238/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-name="Motorvision TV" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="IPTV" tvg-chno="509", Motorvision TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-name="Pluto TV Vida Real" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="IPTV" tvg-chno="515", Pluto TV Vida Real
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6419ab7c9189ce000865a469" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="IPTV" tvg-chno="518", COPS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6419ab7c9189ce000865a469/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="IPTV" tvg-chno="521", Dog el cazarrecompensas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f23102d5e239d00074b092a" tvg-name="Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="IPTV" tvg-chno="524", Empeños a lo bestia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6109ab25b84d6a0007504886" tvg-name="Pluto TV Mi Obsesión Favorita" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="IPTV" tvg-chno="527", Pluto TV Mi Obsesión Favorita
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a0007504886/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="IPTV" tvg-chno="542", Misterios Medicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-name="Pluto TV Misterios" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="IPTV" tvg-chno="545", Pluto TV Misterios
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="IPTV" tvg-chno="550", Historias de Ultratumba
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63a084934734f30007457b2c" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="IPTV" tvg-chno="560", Smithsonian Channel Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="IPTV" tvg-chno="563", Pluto TV Historia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd8364ea1d6780009929902" tvg-name="Pluto TV Ciencia" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="IPTV" tvg-chno="572", Pluto TV Ciencia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcde27ffae9520009c0c75a" tvg-name="Pluto TV Investiga" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="IPTV" tvg-chno="578", Pluto TV Investiga
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6109a9f5531b840007a4a187" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="IPTV" tvg-chno="583", Cazador de Homicidas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="IPTV" tvg-chno="588", Los archivos del FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="IPTV" tvg-chno="593", Archivos Forenses
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ea71d48af1d0b0007d837f4" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="IPTV" tvg-chno="597", The New Detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-name="Misterios sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="IPTV" tvg-chno="601", Misterios sin Resolver
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="62310d5a5dc9550007c6f580" tvg-name="CBS News" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" group-title="IPTV" tvg-chno="677", CBS News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-name="Euronews Español" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="IPTV" tvg-chno="685", Euronews Español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f523aa5523ae000074745ec" tvg-name="Telefe Noticias" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="IPTV" tvg-chno="690", Telefe Noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="61f94a2866401100074e9dee" tvg-name="Chilevision Noticias" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="IPTV" tvg-chno="695", Chilevision Noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b" tvg-name="TeleFórmula" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="IPTV" tvg-chno="705", TeleFórmula
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="64b02bbd7d93410008fdae60" tvg-name="DAZN Women's Football" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="IPTV" tvg-chno="815", DAZN Women's Football
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b02bbd7d93410008fdae60/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="IPTV" tvg-chno="827", Pluto TV Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" tvg-name="ITV Deportes" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="IPTV" tvg-chno="839", ITV Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6144d313b34fbf0007107714" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="IPTV" tvg-chno="845", FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5e98b0447665f200078caded" tvg-name="Pluto TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="IPTV" tvg-chno="850", Pluto TV Peleas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-name="Lucha Libre AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="IPTV" tvg-chno="855", Lucha Libre AAA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="IPTV" tvg-chno="929", Comedy Central South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="62d0895ebe7a970008785244" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="IPTV" tvg-chno="934", Daria
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="62d08af527ce19000731eaa0" tvg-name="La Familia del Barrio" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="IPTV" tvg-chno="939", La Familia del Barrio
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5e8397936791b30007ebb5a7" tvg-name="Pluto TV Humor" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="IPTV" tvg-chno="994", Pluto TV Humor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ffcc21a432945000762d06b" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="IPTV" tvg-chno="999", Comedy Central Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="633dc8684bf50b00074a46b1" tvg-name="Backdoor" tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" group-title="IPTV" tvg-chno="1004", Backdoor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc8684bf50b00074a46b1/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="IPTV" tvg-chno="1009", FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ebacbcae43a6d000787b88e" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="IPTV" tvg-chno="1014", The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63eb907651f5d000085e4778" tvg-name="Best of The Drew Barrymore Show" tvg-logo="https://images.pluto.tv/channels/63eb907651f5d000085e4778/colorLogoPNG.png" group-title="IPTV" tvg-chno="1029", Best of The Drew Barrymore Show
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb907651f5d000085e4778/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f9afb01816137000737f799" tvg-name="Nosey Escándalos" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="IPTV" tvg-chno="1033", Nosey Escándalos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6320ddef274b1b0007b2ee88" tvg-name="Reviví Gran Hermano" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="IPTV" tvg-chno="1049", Reviví Gran Hermano
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5de91cf02fc07c0009910465" tvg-name="Telefe Hits" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="IPTV" tvg-chno="1065", Telefe Hits
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="647f7f8d8e3c0a0008d552cb" tvg-name="Gran Hermano Chile" tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="IPTV" tvg-chno="1075", Gran Hermano Chile
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/647f7f8d8e3c0a0008d552cb/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="62aa5740a47b6c000769f407" tvg-name="Chilevision Contigo" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="IPTV" tvg-chno="1077", Chilevision Contigo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-name="Pluto TV Viajes" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="IPTV" tvg-chno="1154", Pluto TV Viajes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="IPTV" tvg-chno="1179", Pluto TV Hogar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="IPTV" tvg-chno="1199", Pluto TV Cocina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="609062295c2b8f0007199e7a" tvg-name="Pluto TV Recetas" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="IPTV" tvg-chno="1204", Pluto TV Recetas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="IPTV" tvg-chno="1209", Tastemade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ee8d84bfb286e0007285aad" tvg-name="Pluto TV Fashionstream" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="IPTV" tvg-chno="1224", Pluto TV Fashionstream
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63974ebedcd9100008c2f59c" tvg-name="Fashion TV" tvg-logo="https://images.pluto.tv/channels/63974ebedcd9100008c2f59c/colorLogoPNG.png" group-title="IPTV" tvg-chno="1229", Fashion TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63974ebedcd9100008c2f59c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="IPTV" tvg-chno="1251", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-name="Pluto TV Animé Acción" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="IPTV" tvg-chno="1254", Pluto TV Animé Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="IPTV" tvg-chno="1259", Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="626c2ed933a2890007e91422" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="IPTV" tvg-chno="1264", Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5fceaab478f2af00080ff51f" tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="IPTV" tvg-chno="1269", Yu-Gi-Oh
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="64666345f3f5b1000882bfb4" tvg-name="Captain Tsubasa" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="IPTV" tvg-chno="1271", Captain Tsubasa
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="632119a92c3b880007d3f5dc" tvg-name="Beyblade" tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" group-title="IPTV" tvg-chno="1274", Beyblade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632119a92c3b880007d3f5dc/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="IPTV" tvg-chno="1284", One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="IPTV" tvg-chno="1294", Tokusato
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-name="Pluto TV E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="IPTV" tvg-chno="1324", Pluto TV E-Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5fb554d87a0c480007c8dada" tvg-name="ESR 24/7" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="IPTV" tvg-chno="1329", ESR 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" tvg-name="Nick Teen" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="IPTV" tvg-chno="1352", Nick Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="620ff0a01f9e8700076c6f9d" tvg-name="Nickelodeon iCarly" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="IPTV" tvg-chno="1360", Nickelodeon iCarly
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-name="Kenan y Kel" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="IPTV" tvg-chno="1365", Kenan y Kel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd6de52b9914200091f047a" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="IPTV" tvg-chno="1370", Pluto TV Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="IPTV" tvg-chno="1402", Nick Jr. Club
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-name="Las Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="IPTV" tvg-chno="1405", Las Pistas de Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="619d5e6a093e7c0007489211" tvg-name="Baby Shark TV" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="IPTV" tvg-chno="1410", Baby Shark TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ebac49ce4dc8b00078b23bc" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="IPTV" tvg-chno="1415", Babyfirst
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="IPTV" tvg-chno="1420", Pluto TV Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f29ada4bdaebd000708d49d" tvg-name="Barney" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="IPTV" tvg-chno="1425", Barney
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5e67e20c93312100076f3ffe" tvg-name="Babar" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="IPTV" tvg-chno="1430", Babar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5f4d3d06fb60d8000781fce8" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="IPTV" tvg-chno="1435", El Reino Infantil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-name="Nick Clásico" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="IPTV" tvg-chno="1440", Nick Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5ea7215005d66d0007e8128a" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="IPTV" tvg-chno="1445", Rugrats
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6202ab549654c800076ee13f" tvg-name="Nickelodeon Rocket Power" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="IPTV" tvg-chno="1450", Nickelodeon Rocket Power
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202ab549654c800076ee13f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" tvg-name="Nick Pluto TV" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="IPTV" tvg-chno="1455", Nick Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645952687cb4b100084ed52e/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6254598f5083f800076d8563" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="IPTV" tvg-chno="1460", Bob Esponja Pantalones Cuadrados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="6322099c822bbc00074857db" tvg-name="Los Padrinos Mágicos" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="IPTV" tvg-chno="1465", Los Padrinos Mágicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="IPTV" tvg-chno="1470", Las Tortugas Ninja
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="IPTV" tvg-chno="1480", Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
+#EXTINF:-1 tvg-id="636e83511fa9600007e5ae19" tvg-name="Pluto TV Anime Kids" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="IPTV" tvg-chno="1485", Pluto TV Anime Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636e83511fa9600007e5ae19/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
