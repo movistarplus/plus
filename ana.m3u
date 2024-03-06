@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="IPTV" tvg-chno="104", CSI: Miami
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.15.13-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=23580a212-1cdb-4bd5-9d7d-155991ae5bfe&clientModelNumber=na&deviceDNT=false&deviceId=2358a212-1cdb-4bd5-9d7d-155991ae5bfe&deviceLat=25.55449&deviceLon=-103.381419&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.606324.190&marketingRegion=VE&serverSideAds=true&sessionID=e9bf678e-7dfe-11eb-b414-0242ac110002&sid=e9bf3328e-7dfe-11eb-b224-0242ac110002&userId=&already_redirected=true|User-agent=Safari/537.36
 #EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="IPTV" tvg-chno="108", NCIS
@@ -25,7 +26,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=771|User-agent=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/V3MNNfg/Baby-Shark-TV.png" group-title="IPTV",Baby Shark TV
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/1200.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo-small="https://i.ibb.co/Dk39SVG/MovieFE.png" tvg-logo="https://i.ibb.co/jrcPkVh/MovieFE.png" group-title="IPTV",Movie Fe
-e|User-agent=MXPlayer/1.48.2 (Linux; Android 6.0.1; es-ES; Dolamee_D5 Build/Dolamee_D5-userdebug 6.0.1 MXC89L user.xfwu.20170410.192530 test-keys)|Referer=https://vcp.myplaytv.com:2000/
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8|User-agent=MXPlayer/1.48.2 (Linux; Android 6.0.1; es-ES; Dolamee_D5 Build/Dolamee_D5-userdebug 6.0.1 MXC89L user.xfwu.20170410.192530 test-keys)|Referer=https://vcp.myplaytv.com:2000/
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/KFFcCZ4/Peliculas-Cristianas.png" group-title="IPTV",Películas Cristianas
 https://ythls.armelin.one/channel/UCgKLdN2L0VEusCGene_HWag.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/fCFCZ92/Tves.png" tvg-logo="https://i.ibb.co/CWcQg99/tves.png" group-title="IPTV",TVES
@@ -41,7 +42,7 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-id="no_epg" tvg-logo-small="" tvg-logo="https://i.ibb.co/9qjs4pK/zaztv.png" group-title="IPTV",ZAZ TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120|User-agent=Mozilla/5/Lavf/57.71.100
 #EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/CBVzMs1/TLT.png" tvg-logo="https://i.ibb.co/cY70mhm/TLT.png" group-title="IPTV",TLT
-https://m3ukodi.com/iptv/dplay.php?https://www.dailymotion.com/embed/video/x8my9op?autoplay=1&amp;f=.m3u8
+https://www.dailymotion.com/embed/video/x8my9op?autoplay=1&amp;f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NghGw4P/ivc.png" group-title="IPTV",IVC Networks
 http://168.227.22.18:1935/live/mobile-153/playlist.m3u8|User-agent=iPhone
 #EXTINF:-1 tvg-id="no_epg" tvg-logo-small="https://i.ibb.co/MnsZ1bX/Canali.png" tvg-logo="https://i.ibb.co/hXgxxhT/Canal-i.png" group-title="IPTV",Canal i
